@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio Formulario</string>
+    <string name="tv_nombre_completo">Nombre Completo:</string>
+    <string name="tv_fecha">Fecha:</string>
+    <string name="tv_telefono">Teléfono:</string>
+    <string name="tv_email">Email:</string>
+    <string name="tv_descripcion">Descripción Contacto:</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_editar">Editar Datos</string>
+    <string name="titulo_confirmar_datos">Confirmar Datos</string>
+</resources>
